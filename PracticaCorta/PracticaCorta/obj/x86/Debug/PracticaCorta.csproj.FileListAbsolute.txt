@@ -1,0 +1,6 @@
+/home/julio/Projects/Dev/PracticaCorta/PracticaCorta/bin/Debug/PracticaCorta.exe
+/home/julio/Projects/Dev/PracticaCorta/PracticaCorta/bin/Debug/PracticaCorta.pdb
+/home/julio/Projects/Dev/PracticaCorta/PracticaCorta/obj/x86/Debug/PracticaCorta.csprojAssemblyReference.cache
+/home/julio/Projects/Dev/PracticaCorta/PracticaCorta/obj/x86/Debug/PracticaCorta.csproj.CoreCompileInputs.cache
+/home/julio/Projects/Dev/PracticaCorta/PracticaCorta/obj/x86/Debug/PracticaCorta.exe
+/home/julio/Projects/Dev/PracticaCorta/PracticaCorta/obj/x86/Debug/PracticaCorta.pdb
